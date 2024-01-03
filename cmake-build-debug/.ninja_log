@@ -1,0 +1,9 @@
+# ninja log v5
+7	655	1696971727871299324	CMakeFiles/DLLTaskManager.dir/Task.cpp.o	14092a7ea77b4bc6
+261	290	1697162773826389960	DLLTaskManager	b7cdd92ef5a5af99
+5	265	1697130788550194174	CMakeFiles/DLLTaskManager.dir/MainDLL.cpp.o	201931f2629e4e06
+6	325	1697130788608662751	CMakeFiles/DLLTaskManager.dir/TaskManager.cpp.o	3c75c5fd9f28aceb
+6	261	1697162773796081403	CMakeFiles/DLLTaskManager.dir/DLL.cpp.o	8045cdaaad5b7d75
+7	654	1696971727866795510	CMakeFiles/DLLTaskManager.dir/DNode.cpp.o	6a1f2fc1da403773
+5	219	1697163104461422983	CMakeFiles/DLLTaskManager.dir/DLL.cpp.o	8045cdaaad5b7d75
+219	244	1697163104488729747	DLLTaskManager	b7cdd92ef5a5af99
